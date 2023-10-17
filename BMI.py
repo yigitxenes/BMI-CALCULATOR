@@ -2,7 +2,9 @@
 ##print("Underweight: less than 18.5")
 ##print("Normal: between 18.5 and 24.9")
 ##print("Overweight: between 25 and 29.9")
-##print("Obese: 30 or greater")
+##print("Obese: 30 or greater")
+## IF YOU HAVE ANY SUGGESTION TO IMPROVE MY CODE FEEL FREE TO SAY WHAT YOU THINK
+
 
 weight = int(input("Enter Your Weight in Kilograms: "))
 height = float(input("Enter Your Height in Meters: "))
@@ -19,4 +21,5 @@ print("BMI VALUES:")
 print("Underweight: less than 18.5")
 print("Normal: between 18.5 and 24.9")
 print("Overweight: between 25 and 29.9")
-print("Obese: 30 or greater")
+print("Obese: 30 or greater")
+
